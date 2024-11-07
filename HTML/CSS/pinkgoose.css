@@ -1,0 +1,441 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.links {
+    color: white;
+}
+
+.logo {
+    background-color: black;
+    font-size: 30px;
+}
+
+.Goose {
+    background-color: black;
+    color: pink;
+}
+
+.Navigatie {
+    display: flex;
+    gap: 15px;
+}
+
+.login {
+    background-color: gray;
+    border-radius: 7px;
+    padding: 7px;
+}
+
+.font {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.getstart {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    width: 214px;
+    height: 68px;
+    border-radius: 20px;
+    background-color: rgba(206, 170, 255, 1);
+}
+
+.space {
+    width: 100px;
+    height: 100px;
+}
+
+.stars {
+    width: 88px;
+    height: 89.18px;
+    display: flex;
+    position: relative;
+    right: 400px;
+}
+
+.ready {
+    display: flex;
+    position: absolute;
+}
+
+.tagcontainer {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.tag {
+    background-color: rgba(128, 128, 128, 0.47);
+    border-radius: 12px;
+    padding: 12px;
+}
+
+.tags {
+    display: flex;
+    gap: 10px;
+}
+
+.tags2 {
+    display: flex;
+    gap: 10px;
+}
+
+.pink {
+    color: pink;
+}
+
+.yellow {
+    color: rgb(210, 210, 21);
+}
+
+.purple {
+    color: rgb(152, 48, 152);
+}
+
+.blue {
+    color: aquamarine;
+}
+
+.aqua {
+    color: aqua;
+}
+
+.superdao {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dao {
+    color: black;
+    background-color: pink;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+.teksten {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grey {
+    color: rgba(55, 66, 77, 1);
+}
+
+.fontsize {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.startjes {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.star2 {
+    display: flex;
+    position: relative;
+    left: 300px;
+}
+
+.logos {
+    width: 160px;
+    height: 160px;
+    background-color: rgba(42, 55, 68, 1);
+    border-radius: 40px;
+    display: flex;
+}
+
+.blokjes {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
+
+.tekst {
+    display: flex;
+    gap: 110px;
+    justify-content: center;
+}
+
+.help {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+    align-items: center;
+}
+
+.tekst2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.weekly {
+    background-color: rgba(42, 55, 68, 1);
+    height: 390px;
+    width: 1140px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 175px;
+}
+
+.fontsize2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.email {
+    background-color: gray;
+    color: rgba(61, 76, 91, 1);
+    font-size: large;
+    width: 506px;
+    height: 68px;
+    border-radius: 16px;
+    position: relative;
+    right: 30px;
+}
+
+.subscribe {
+    background-color: rgba(206, 170, 255, 1);
+    width: 175px;
+    height: 68px;
+    border-radius: 16px;
+    justify-content: center;
+}
+
+.star {
+    display: flex;
+    position: absolute;
+    left: 600px;
+}
+
+.press {
+    display: flex;
+    gap: 700px;
+    align-items: baseline;
+    justify-content: space-evenly;
+}
+
+.black {
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.star1 {
+    display: flex;
+    position: absolute;
+    left: 350px;
+}
+
+.podcasts {
+    display: flex;
+    gap: 700px;
+    align-items: baseline;
+    justify-content: space-evenly;
+}
+
+.informatie {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
+
+.decrypt {
+    width: 361px;
+    height: 382px;
+    background-color: rgba(119, 230, 255, 1);
+    border-radius: 12px;
+}
+
+.blockworks {
+    width: 361px;
+    height: 382px;
+    background-color: rgba(226, 193, 249, 1);
+    border-radius: 12px;
+}
+
+.crunch {
+    width: 361px;
+    height: 382px;
+    background-color: rgba(219, 226, 104, 1);
+    border-radius: 12px;
+}
+
+.podcasten {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+.podcast {
+    width: 361px;
+    height: 334px;
+    border-radius: 12px;
+    background-color: rgba(42, 55, 68, 1);
+}
+
+.space2 {
+    height: 35px;
+}
+
+.space3 {
+    height: 15px;
+}
+
+.space4 {
+    height: 60px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+.telegram {
+    background-color: rgba(255, 200, 3, 1);
+    width: 280px;
+    height: 84px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.postion {
+    display: flex;
+    flex-direction: column;
+}
+
+.email2 {
+    background-color: rgba(255, 180, 211, 1);
+    width: 280px;
+    height: 84px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 16px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lightdark {
+    color: rgba(64, 53, 75, 1);
+}
+
+.end {
+    width: 1500px;
+    height: 168px;
+    background-color: rgba(18, 30, 40, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.black2 {
+    color: black;
+}
+
+.positie {
+    display: flex;
+    position: absolute;
+    left: 600px;
+    gap: 80px;
+}
+
+.positie2 {
+    position: relative;
+    left: 400px;
+}
+
+.blokjes3 {
+    height: 334px;
+    width: 352px;
+    background-color: rgba(255, 180, 211, 1);
+    border-radius: 16px;
+}
+
+.heroes {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+}
+
+.post {
+    background-color: rgba(61, 76, 91, 1);
+    width: 942px;
+    height: 1096px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    left: 300px;
+
+}
+
+.urmail {
+    background-color: rgba(42, 55, 68, 1);
+    width: 506px;
+    height: 68px;
+    border-radius: 16px;
+    display: inline-grid;
+    gap: 10px;
+}
+
+.name {
+    background-color: rgba(42, 55, 68, 1);
+    width: 506px;
+    height: 68px;
+    border-radius: 16px;
+    display: inline-grid;
+    gap: 10px;
+}
+
+.choose {
+    background-color: rgba(42, 55, 68, 1);
+    width: 506px;
+    height: 68px;
+    border-radius: 16px;
+    display: inline-grid;
+    gap: 10px;
+}
+
+.message {
+    background-color: rgba(42, 55, 68, 1);
+    width: 506px;
+    height: 310px;
+    border-radius: 16px;
+}
+
+.send {
+    width: 175px;
+    height: 68px;
+    background-color: rgba(255, 180, 211, 1);
+    border-radius: 16px;
+    position: relative;
+    left: 350px;
+}
